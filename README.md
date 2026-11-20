@@ -1,5 +1,7 @@
 # Вусал — Product Manager
 
+[![Deploy portfolio to GitHub Pages](https://github.com/seregazcerev-cmyk/vusal-product-manager/actions/workflows/pages.yml/badge.svg)](https://github.com/seregazcerev-cmyk/vusal-product-manager/actions/workflows/pages.yml)
+
 Многостраничное профессиональное портфолио продукт-менеджера в чёрно-золотом editorial-стиле.
 
 ## Публикация

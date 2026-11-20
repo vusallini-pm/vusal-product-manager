@@ -2,7 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 
 const root = path.resolve(import.meta.dirname, "../dist");
-const origin = "https://seregazcerev-cmyk.github.io/vusal-product-manager";
+const origin = "https://vusallini-pm.github.io/vusal-product-manager";
 
 const pages = [
   { file: "index.html", url: "/", title: "Вусал — Product Manager | Продуктовое портфолио", description: "Портфолио продукт-менеджера Вусала: продуктовые кейсы, A/B‑эксперименты, автоматизация процессов, управление командой и измеримые результаты.", kind: "ProfilePage", crumbs: [["Главная", "/"]] },

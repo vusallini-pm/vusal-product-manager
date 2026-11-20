@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seregazcerev-cmyk.github.io/vusal-product-manager/sitemap.xml
+Sitemap: https://vusallini-pm.github.io/vusal-product-manager/sitemap.xml

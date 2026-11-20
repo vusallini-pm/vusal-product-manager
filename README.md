@@ -1,6 +1,6 @@
 # Вусал — Product Manager
 
-[![Deploy portfolio to GitHub Pages](https://github.com/seregazcerev-cmyk/vusal-product-manager/actions/workflows/pages.yml/badge.svg)](https://github.com/seregazcerev-cmyk/vusal-product-manager/actions/workflows/pages.yml)
+[![Deploy portfolio to GitHub Pages](https://github.com/vusallini-pm/vusal-product-manager/actions/workflows/pages.yml/badge.svg)](https://github.com/vusallini-pm/vusal-product-manager/actions/workflows/pages.yml)
 
 Многостраничное профессиональное портфолио продукт-менеджера в чёрно-золотом editorial-стиле.
 
@@ -8,7 +8,7 @@
 
 Сайт автоматически публикуется в GitHub Pages из папки `dist` после каждого изменения ветки `main`.
 
-Публичный адрес: <https://seregazcerev-cmyk.github.io/vusal-product-manager/>
+Публичный адрес: <https://vusallini-pm.github.io/vusal-product-manager/>
 
 ## SEO
 

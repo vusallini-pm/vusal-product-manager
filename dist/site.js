@@ -1,7 +1,7 @@
 const nav = document.querySelector('.links');
 const menu = document.querySelector('.menu');
 
-// Remove the retired section even if Safari restores an older cached page.
+// Remove the retired section even if Safari restores an older cached page from memory.
 document.querySelectorAll('.links a').forEach(link => {
   const href = link.getAttribute('href') || '';
   if (href.includes('lab/index.html') || link.textContent.trim() === 'Лаборатория') {
